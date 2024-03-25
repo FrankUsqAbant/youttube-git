@@ -1,0 +1,20 @@
+* d122247 Arreglado menos mal
+* 56d162d Agregando
+*   9ed56ec Resolviendo
+|\  
+| * 5532d61 Agrendo js a index
+* | 7579604 Agregando style
+* |   5d000c6 Merge branch 'js'
+|\ \  
+| * | 3dd39c9 Creando index.js
+* | | e81caf7 Creado style
+| |/  
+|/|   
+* | d7203ee Creando archivo html
+|/  
+* 4d1d9ba Ignorando archivos .exe
+* ded9b3c Creando licencia del repositorio
+* 3b1419b Estamos agregando mas contenido
+* 0b7e196 Agregando mas contenido
+* f5ed685 Agregando contenido
+* 781b312 Primer commit
